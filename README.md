@@ -5,4 +5,4 @@ A slide deck consisting of no more than 5 slides created with R Studio Presenter
 
 Shinny app - https://mounikagopinath.shinyapps.io/CapstoneFinalProject/
 
-Slide Deck - 
+Slide Deck - https://rpubs.com/mogopinath/Capstone
